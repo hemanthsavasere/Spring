@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d08efea4-d047-479c-9a23-1e9f94511754" name="Changes" comment="Changes to add constructor println statements for debugging">
+    <list default="true" id="d08efea4-d047-479c-9a23-1e9f94511754" name="Changes" comment="Making one of the class for lazy initialization">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springconstructorinjection/model/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springconstructorinjection/model/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Hemanth/Downloads/Java/Spring/Spring/02-Spring-Core/06-Spring-Lazy-Initilization",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "0f4132ae5ee4ea7208f7eb87a7b15b68"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hemanth/Downloads/Java/Spring/Spring/02-Spring-Core/06-Spring-Lazy-Initilization&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0f4132ae5ee4ea7208f7eb87a7b15b68&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hemanth\Downloads\Java\Spring\02-Spring-Core\02-Spring-Component-Scanning\src\main\java\util" />
@@ -81,7 +83,9 @@
       <workItem from="1695023080641" duration="777000" />
       <workItem from="1695023907905" duration="700000" />
       <workItem from="1695026544158" duration="47000" />
-      <workItem from="1695026600104" duration="425000" />
+      <workItem from="1695026600104" duration="717000" />
+      <workItem from="1695044040852" duration="598000" />
+      <workItem from="1695044789952" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Changes to add constructor println statements for debugging">
       <option name="closed" value="true" />
@@ -107,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695026952421</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Making one of the class for lazy initialization">
+      <option name="closed" value="true" />
+      <created>1695027074817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695027074817</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Making one of the class for lazy initialization">
+      <option name="closed" value="true" />
+      <created>1695027128531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695027128531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +135,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Changes to add constructor println statements for debugging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to add constructor println statements for debugging" />
+    <MESSAGE value="Making one of the class for lazy initialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Making one of the class for lazy initialization" />
   </component>
 </project>
