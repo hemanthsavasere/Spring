@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class CricketCoach implements Coach {
 
     public CricketCoach() {
-        System.out.println("In constructor " + this.getClass().getName());
+        System.out.println("In constructor " + getClass().getName());
     }
 
     @Override
