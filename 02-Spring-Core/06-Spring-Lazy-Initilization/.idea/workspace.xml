@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d08efea4-d047-479c-9a23-1e9f94511754" name="Changes" comment="Changes to add constructor println statements for debugging">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springconstructorinjection/model/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springconstructorinjection/model/TrackCoach.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VYf2BZaz2n70AKz0XSJy8LHmus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Hemanth/Downloads/Java/Spring/Spring/02-Spring-Core/06-Spring-Lazy-Initilization",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "0f4132ae5ee4ea7208f7eb87a7b15b68"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hemanth\Downloads\Java\Spring\02-Spring-Core\02-Spring-Component-Scanning\src\main\java\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringConstructorInjectionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SpringConstructorInjection" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springconstructorinjection.SpringConstructorInjectionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d08efea4-d047-479c-9a23-1e9f94511754" name="Changes" comment="" />
+      <created>1695017725421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695017725421</updated>
+      <workItem from="1695017726843" duration="1264000" />
+      <workItem from="1695019711962" duration="287000" />
+      <workItem from="1695020976150" duration="254000" />
+      <workItem from="1695023080641" duration="777000" />
+      <workItem from="1695023907905" duration="700000" />
+      <workItem from="1695026544158" duration="47000" />
+      <workItem from="1695026600104" duration="425000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes to add constructor println statements for debugging">
+      <option name="closed" value="true" />
+      <created>1695026814026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695026814026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes to add constructor println statements for debugging">
+      <option name="closed" value="true" />
+      <created>1695026832581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695026832581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes to add constructor println statements for debugging">
+      <option name="closed" value="true" />
+      <created>1695026952421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695026952421</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Changes to add constructor println statements for debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to add constructor println statements for debugging" />
+  </component>
+</project>
